@@ -1,0 +1,8 @@
+downloads/
+.openclaw-android/
+llama.cpp/
+*.rar
+*.bin
+*.real
+node_modules/
+__pycache__/
