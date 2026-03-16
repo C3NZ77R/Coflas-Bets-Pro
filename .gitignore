@@ -6,3 +6,4 @@ llama.cpp/
 *.real
 node_modules/
 __pycache__/
+.env
