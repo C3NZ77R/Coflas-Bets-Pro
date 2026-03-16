@@ -7,3 +7,8 @@ llama.cpp/
 node_modules/
 __pycache__/
 .env
+
+
+partidos.xlsx
+__pycache__/
+*.pyc
